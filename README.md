@@ -1,10 +1,14 @@
-# Matthew Don — matthewdonsemail-lab
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matthewdonsemail-lab/matthewdonsemail-lab/main/banner.png" alt="Matthew Don — hire matthewdon because he's the greatest GTM/sales engineer/GOAT at marketing + handsome + makes cool opensourced tek" width="800" />
+</p>
 
 The Swiss Army knife of go-to-market: social media, content, websites and engineering. I build the tools, run the campaigns and ship it all as open source.
 
 > Go-to-market tools shouldn't sit behind a paywall. So I build them in the open, ship them free, and let the numbers talk.
 
-## Projects — `X by ListeningKit`
+## Projects
+
+Everything ships as `X by ListeningKit`:
 
 | Project | What it is | Live / repo | Stars |
 | --- | --- | --- | --- |
