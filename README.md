@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/matthewsoldit/status/2102674211424854426"><img src="img/02-launch-post-v3.png" alt="my hackathon launch post, 15K views" width="72%" /></a>
+  <a href="https://x.com/matthewsoldit/status/2102674211424854426"><img src="img/02-launch-post-v4.png" alt="my hackathon launch post, 15K views" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/matthewsoldit/status/2102520314483941446"><img src="img/04-log-post-v3.png" alt="the free tool to kill a $1M company, 15K views" width="72%" /></a>
+  <a href="https://x.com/matthewsoldit/status/2102520314483941446"><img src="img/04-log-post-v4.png" alt="the free tool to kill a $1M company, 15K views" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/matthewsoldit/status/2097872142704754762"><img src="img/08-dialer-post-v3.png" alt="my biggest dialer post, 8.4K views" width="72%" /></a>
+  <a href="https://x.com/matthewsoldit/status/2097872142704754762"><img src="img/08-dialer-post-v4.png" alt="my biggest dialer post, 8.4K views" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/matthewsoldit/status/2103679605282603009"><img src="img/13-treg-post-v3.png" alt="hundreds of people already use the treg component" width="72%" /></a>
+  <a href="https://x.com/matthewsoldit/status/2103679605282603009"><img src="img/13-treg-post-v4.png" alt="hundreds of people already use the treg component" width="100%" /></a>
 </p>
 
 <p align="center">
