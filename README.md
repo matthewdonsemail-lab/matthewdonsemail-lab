@@ -2,100 +2,102 @@
   <img src="img/banner.png" alt="i build gtm tools and give them away free. 47 stars, 1,236 installs a month" width="100%" />
 </p>
 
-# i build go-to-market tools and give them away
-
-I'm Matt. I do go-to-market: social, content, websites and the engineering behind it. **Everything I build for it goes open source**, and the numbers do the talking. Here's every tool and every number.
-
 <p align="center">
-  <a href="https://x.com/matthewsoldit/status/2102674211424854426"><img src="img/launch.png" alt="my hackathon launch post for Log by ListeningKit, 15K views" width="560" /></a>
-</p>
-
-## The numbers so far
-
-I don't think go-to-market tools should sit behind a paywall. So I build them **in the open**, ship them free, and let the numbers talk.
-
-<p align="center">
-  <img src="img/numbers.png" alt="47 stars across my repos, 1,236 npm installs a month, 308,775 views on X in 12 weeks" width="720" />
-</p>
-
-## I lost a hackathon. People starred it anyway.
-
-**[Log by ListeningKit](https://github.com/matthewdonsemail-lab/log)** watches Reddit, X and Facebook for the things your customers say, scores every post **0 to 100** for buying intent, and pings you. Built in **13 days** for the [@convex](https://x.com/convex) All Gas hackathon, on [@treg_ai](https://x.com/treg_ai), [@firecrawl](https://x.com/firecrawl) and [@OpenAI](https://x.com/OpenAI).
-
-<p align="center">
-  <a href="https://x.com/matthewsoldit/status/2102520314483941446"><img src="img/log-post.png" alt="made a free tool to kill a $1M company for the Convex hackathon, 15K views" width="560" /></a>
-</p>
-
-We lost to another AI note-taking app. But that was never the point. We built Log to show what **open-source go-to-market** looks like, and to push tools that are actually good.
-
-<p align="center">
-  <a href="https://github.com/matthewdonsemail-lab/log"><img src="img/log-receipt.png" alt="24 stars on GitHub, 13 days to build it, $0 to use it" width="720" /></a>
-</p>
-
-## A cold-calling dialer with no database of its own
-
-**[Dialer by ListeningKit](https://github.com/matthewdonsemail-lab/dialer)** is the open-source version of the dialers you pay a fortune for. Your leads, scripts and calls all live in [Twenty CRM](https://x.com/twentycrm), and every call goes from the browser, **recorded and transcribed**.
-
-<p align="center">
-  <a href="https://x.com/matthewsoldit/status/2097872142704754762"><img src="img/dialer-post.png" alt="my biggest dialer post, 8.4K views" width="560" /></a>
+  <img src="img/01-intro.png" alt="i build go-to-market tools and give them away. everything I build goes open source" width="98%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/matthewdonsemail-lab/dialer"><img src="img/dialer-facts.png" alt="your CRM, the browser, the recording" width="720" /></a>
+  <a href="https://x.com/matthewsoldit/status/2102674211424854426"><img src="img/02-launch-post.png" alt="my hackathon launch post, 15K views" width="72%" /></a>
 </p>
-
-I use it for our own sales reps. **8 stars** and counting.
-
-## The bits people actually install
-
-Every product I build, I pull the useful part out into a **Convex component** anyone can drop in. Two of them get installed every single day:
 
 <p align="center">
-  <img src="img/packages.png" alt="@listeningkit/treg 866 installs a month, @listeningkit/telnyx 370 installs a month" width="720" />
+  <img src="img/03-numbers-intro.png" alt="the numbers so far" width="99%" />
 </p>
-
-- [`@listeningkit/treg`](https://www.npmjs.com/package/@listeningkit/treg): call 3,000+ developer-tool APIs from Convex, with spend limits and a log of every call.
-- [`@listeningkit/telnyx`](https://www.npmjs.com/package/@listeningkit/telnyx): send SMS from Convex, with no duplicate sends or repeated events.
 
 <p align="center">
-  <a href="https://x.com/matthewsoldit/status/2103679605282603009"><img src="img/treg-post.png" alt="hundreds of people already use the treg component" width="560" /></a>
+  <img src="img/04-numbers.png" alt="47 stars across my repos, 1,236 npm installs a month, 308,775 views on X in 12 weeks" width="100%" />
 </p>
-
-## And the rest of the toolbox
-
-Each one started because I needed it for a real campaign. **All open source.**
 
 <p align="center">
-  <img src="img/toolbox.png" alt="Rank, Blaster, Offer, open-typesafe-camoufox and the Robotic Video Sales Letter, with their stars" width="720" />
+  <a href="https://github.com/matthewdonsemail-lab/log"><img src="img/05-log-intro.png" alt="I lost a hackathon. People starred it anyway. Log by ListeningKit" width="96%" /></a>
 </p>
-
-- [Rank](https://github.com/matthewdonsemail-lab/rank): finds who to ask for backlinks, then judges each one: act, review or drop.
-- [Blaster](https://github.com/matthewdonsemail-lab/blaster): reads your CRM and sends SMS from the right number for each country.
-- [Offer](https://github.com/matthewdonsemail-lab/offer): write an offer once in Twenty and the whole funnel builds itself.
-- [open-typesafe-camoufox](https://github.com/matthewdonsemail-lab/open-typesafe-camoufox): a stealth browser for agents that need to look like a person.
-- [Robotic Video Sales Letter](https://github.com/matthewdonsemail-lab/Robotic-Video-Sales-Letter-Pydantic-Camoufox-Agent-for-GTM): makes a personal sales video for every lead.
-
-## Before all this
-
-I dropped out of uni. I was already editing for creators with **300K to 10M followers**, then ChatGPT came out and I went all in. Since then:
 
 <p align="center">
-  <img src="img/before.png" alt="17,000 ChatGPT accounts sold in China, a sourcing company in Guangzhou, and an AI that cold-called businesses in my voice" width="720" />
+  <a href="https://x.com/matthewsoldit/status/2102520314483941446"><img src="img/06-log-post.png" alt="the free tool to kill a $1M company, 15K views" width="72%" /></a>
 </p>
-
-## Now we're a comm
-
-The people who use this stuff for real are a **comm** now: 2 calls a week on X, daily accountability, and open source tools we build together. If you're already getting paid with go-to-market, come in.
 
 <p align="center">
-  <a href="https://gg.listeningkit.com/?utm_source=github&utm_medium=profile_readme#apply"><img src="img/comm.png" alt="save your spot: gg.listeningkit.com" width="720" /></a>
+  <img src="img/07-log-why.png" alt="we built Log to show what open-source go-to-market looks like" width="96%" />
 </p>
 
-## Find me
+<p align="center">
+  <a href="https://github.com/matthewdonsemail-lab/log"><img src="img/08-log-receipt.png" alt="24 stars, 13 days to build, $0 to use" width="100%" /></a>
+</p>
 
-- **X**: [@matthewsoldit](https://x.com/matthewsoldit) (where i make GTM devlogs)
-- **ListeningKit**: [listeningkit.com](https://listeningkit.com/) (hire us to make sites and CRM plz)
-- **LinkedIn**: [matt-don-132ab9435](https://www.linkedin.com/in/matt-don-132ab9435/) (trying to become LI final boss)
-- **GitHub**: follow plz, i post my GTM strats here
+<p align="center">
+  <a href="https://github.com/matthewdonsemail-lab/dialer"><img src="img/09-dialer-intro.png" alt="a cold-calling dialer with no database of its own" width="97%" /></a>
+</p>
 
-<sub>Stars and npm installs checked 19 Oct 2026 (GitHub API, npm last 30 days). X views from 23 Jul to 14 Oct 2026.</sub>
+<p align="center">
+  <a href="https://x.com/matthewsoldit/status/2097872142704754762"><img src="img/10-dialer-post.png" alt="my biggest dialer post, 8.4K views" width="72%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/matthewdonsemail-lab/dialer"><img src="img/11-dialer-facts.png" alt="your CRM, the browser, the recording" width="100%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/matthewdonsemail-lab/dialer"><img src="img/12-dialer-stars.png" alt="8 stars and counting" width="72%" /></a>
+</p>
+
+<p align="center">
+  <img src="img/13-packages-intro.png" alt="the bits people actually install" width="94%" />
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@listeningkit/treg"><img src="img/14-packages.png" alt="@listeningkit/treg 866 installs a month, @listeningkit/telnyx 370" width="100%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/matthewsoldit/status/2103679605282603009"><img src="img/15-treg-post.png" alt="hundreds of people already use the treg component" width="72%" /></a>
+</p>
+
+<p align="center">
+  <img src="img/16-toolbox-intro.png" alt="and the rest of the toolbox" width="95%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/matthewdonsemail-lab?tab=repositories"><img src="img/17-toolbox.png" alt="Rank, Blaster, Offer, open-typesafe-camoufox, Robotic Video Sales Letter" width="100%" /></a>
+</p>
+
+<p align="center">
+  <img src="img/18-before-intro.png" alt="before all this" width="95%" />
+</p>
+
+<p align="center">
+  <img src="img/19-before.png" alt="17,000 ChatGPT accounts, a sourcing company in China, my cloned voice" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://gg.listeningkit.com/?utm_source=github&utm_medium=profile_readme#apply"><img src="img/20-comm.png" alt="save your spot: gg.listeningkit.com" width="97%" /></a>
+</p>
+
+<p align="center">
+  <img src="img/21-find-me.png" alt="find me" width="30%" />
+</p>
+
+<p align="center">
+  <a href="https://x.com/matthewsoldit"><img src="img/22-x.png" alt="X: @matthewsoldit" width="64%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://listeningkit.com/"><img src="img/23-listeningkit.png" alt="listeningkit.com" width="88%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matt-don-132ab9435/"><img src="img/24-linkedin.png" alt="LinkedIn" width="73%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/matthewdonsemail-lab"><img src="img/25-github.png" alt="GitHub: follow plz" width="67%" /></a>
+</p>
