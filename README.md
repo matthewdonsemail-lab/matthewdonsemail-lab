@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/00-header-v6.png" alt="matt don: i build go-to-market tools and give them away. 42 GitHub stars from other devs, 1,236 npm installs a month, 308,775 views on X" width="100%" />
+  <img src="img/00-header-v7.png" alt="matt don: i build go-to-market tools and give them away. 62 stars across all my repos, 1,236 npm installs a month, 308,775 views on X" width="100%" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/matthewdonsemail-lab/dialer"><img src="img/10-dialer-stars-v6.png" alt="7 stars and counting" width="93%" /></a>
+  <a href="https://github.com/matthewdonsemail-lab/dialer"><img src="img/10-dialer-stars-v7.png" alt="8 stars and counting" width="93%" /></a>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/matthewdonsemail-lab?tab=repositories"><img src="img/15-toolbox-v6.png" alt="Rank, Blaster, Offer and open-typesafe-camoufox: 6 stars from other devs" width="100%" /></a>
+  <a href="https://github.com/matthewdonsemail-lab?tab=repositories"><img src="img/15-toolbox-v7.png" alt="every starred repo: 62 stars across all my repos" width="100%" /></a>
 </p>
 
 <p align="center">
